@@ -2,17 +2,8 @@
 
 #Copy & paste this command on any python supported terminal.
 
-for termux:->
-
-pkg install python,
-pip install termcolor,
-pkg install git,
-git clone https://github.com/rohitabdullah/Mukta,
-cd Mukta,
-python mukta.py
-
-for linux:->
-
+:->
+pkg install python && 
 pip install termcolor && 
 git clone https://github.com/rohitabdullah/Mukta && 
 cd Mukta && 
