@@ -4,7 +4,7 @@
 
 for termux:->
 
-pkg install python -y,
+pkg install python,
 pip install termcolor,
 pkg install git,
 git clone https://github.com/rohitabdullah/Mukta,
