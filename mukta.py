@@ -2,7 +2,7 @@ import datetime
 from termcolor import colored, cprint
 
 person_name = "Mukta"
-birthday_date = datetime.date(2024, 1, 3)
+birthday_date = datetime.date(2025, 1, 3)
 
 today = datetime.date.today()
 if today == birthday_date:
