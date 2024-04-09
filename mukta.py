@@ -6,7 +6,7 @@ birthday_date = datetime.date(2025, 1, 3)
 
 today = datetime.date.today()
 if today == birthday_date:
-else print ("Hop beda, Ajke birthday na")
+else print ("Hop beda, Ajke birthday na. Valo koira calendar check de.")
     # Create a colorful and animated message
     message = f"✨ Happy birthday, dear {person_name}! ✨"
     cprint(message, "magenta", "on_yellow", attrs=["bold"])
